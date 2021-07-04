@@ -9,8 +9,24 @@
 ## Text Processing
 
 ## NLP
+1. Tokenization
+2. Normalization
+3. Stemming
+4. Lemmatization
+5. Corpus
+6. Stop Words
+7. Parts-of-speech (POS) Tagging
+8. Name Entity Recognition (NER)
+9. Statistical Language Modeling
+10. Bag of Words
+11. n-grams
+12. Similarity Measures
+13. Syntactic Analysis
+14. Semantic Analysis
+15. Sentiment Analysis
 
 ## Text to Speech (TTS)
 
 ## Machine Translation
 
+## OCR
