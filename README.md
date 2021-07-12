@@ -14,7 +14,7 @@ Venmurasu Programming Team (VPT) is a program to introduce students to open sour
 1. Students enroll for the mentorship program during the start of their academic year as teams (2-5). 
 2. They can pick their area of interest from the available categories listed. 
 3. They are assigned to mentors
-4. Bi-monthly/Monthly check-ins (remote meeting) 
+4. Monthly check-ins (remote meeting) 
 
 ### Coding contest 
 
