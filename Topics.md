@@ -4,11 +4,14 @@
 1. Curiousity!
 2. Beginner level skills with Python 2.x or 3.x
 3. Familiarity with a text editor (Vim, Visual Studio Code, Sublime Text etc.,) or an IDE PyCharm, VSC, JetBrains etc.,
-4. Familiarity with version control system (Git)
+4. Familiarity with Jupyter Notebook
+5. Familiarity with version control system (Git)
+
 
 ## Text Processing
 
 ## NLP
+### Areas
 1. Tokenization
 2. Normalization
 3. Stemming
@@ -24,7 +27,9 @@
 13. Syntactic Analysis
 14. Semantic Analysis
 15. Sentiment Analysis
-
+### Software
+1. NLTK
+2. SpaCy
 ## Text to Speech (TTS)
 
 ## Machine Translation
