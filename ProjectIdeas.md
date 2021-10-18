@@ -80,3 +80,15 @@ Venmurasu (http://venmurasu.in) novel series has about 3.4 million words used. T
 Create audio book for the Venmurasu novel series using machine learning
 
 
+# B.Non NLP
+
+
+## Improve vpt.ai website
+
+## Improve PSG Tech Alumni website:
+
+## Improve PSG Tech alumni website, make “donation” easier. - No easy way to “Donate” - https://alumni.psgtech.ac.in/page/flagship-programs
+No “Donate” button in PSG Tech website (or many of Tamil Nadu engineering colleges including Guindy Engineering College) 
+Compare IIT Madras alumni chapter -  https://iitmfoundation.org/ways_to_give/ 
+Carnegie Mellon University alumni portal (Large “Give” button) - https://www.cmu.edu/engage/give/index.html
+Georgia Tech: https://www.gtalumni.org/s/1481/alumni/19/home.aspx?gid=21&pgid=61
