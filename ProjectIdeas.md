@@ -63,14 +63,20 @@ Create an online version of Madras Lexicon
 * Metaphone for tamil https://github.com/cmrajan/taphone
 * Madras Lexicon
 
+## 5. Search functionality using Bluge 
+Implement a  full text search functionality using Bluge https://github.com/blugelabs/bluge. This can be used to add search functionality to any content site. 
+An example for such functionality is implemented in venmurasu (https://venmurasu.in/search?q=). 
+### Links
+* Existing Venmurasu search https://github.com/venmurasu/venmurasu-search 
+* Bluge https://github.com/blugelabs/bluge
 
-## 5. Index generation for Venmurasu
+## 6. Index generation for Venmurasu
 Venmurasu (http://venmurasu.in) novel series has about 3.4 million words used. This project will create a index of the words and creates a reference.
 
 ### Links
 * Venmurasu http://venmurasu.in
 
-## 6. Automated audio book for Venmurasu novel series
+## 7. Automated audio book for Venmurasu novel series
 Create audio book for the Venmurasu novel series using machine learning
 
 
