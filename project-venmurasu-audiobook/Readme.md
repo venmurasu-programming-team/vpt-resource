@@ -5,7 +5,7 @@ This project is to create an Automated audio book for Venmurasu novel series usi
 ### TTS libraries
 * https://tensorspeech.github.io/TensorFlowTTS/
 * https://github.com/coqui-ai/TTS
-* <test other libraries too>
+* --- check other libraries too -- 
 
 ### Research papers
 https://arxiv.org/abs/1712.05884
